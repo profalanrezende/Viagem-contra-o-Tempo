@@ -18,5 +18,4 @@ Botão ⛶ no canto da tela e abertura automática ao tocar em JOGAR (desligáve
 ## Professor
 Senha `prof123`: liberar todas as fases, apagar alunos/ranking. Ajustes: escolher ou digitar a resposta; ritmo Normal, Calmo ou Sem pressa; voz lendo a conta.
 
-## Publicar
-Envie todos os arquivos ao GitHub Pages (abra `index.html`). Funciona offline (PWA).
+Funciona offline (PWA).
